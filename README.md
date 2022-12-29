@@ -71,7 +71,7 @@ _**Sparkify.ipynb**_ - all above stes can be found in this notebook.
 
  
 
-A details description of this project and its results can be found in this [Medium post](https://medium.com/@_Florida/churn-butter-not-customers-5cbb23d640f):
+A detailed description of this project and its results can be found in this [Medium post](https://medium.com/@_Florida/churn-butter-not-customers-5cbb23d640f):
 
  
 
