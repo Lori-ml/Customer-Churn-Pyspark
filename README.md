@@ -30,7 +30,7 @@ This project analyses a fictitious digital music provider under name Sparkify. D
 
 - Dataset has been checked for data related issues (missing data, outliers). 
 
-- Derives new features based on raw data.
+- New featues have been derived based on raw data
 
  
 
