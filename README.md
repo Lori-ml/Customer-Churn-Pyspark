@@ -73,10 +73,7 @@ _**Sparkify.ipynb**_ - all above stes can be found in this notebook.
 
 A detailed description of this project and its results can be found in this [Medium post](https://medium.com/@_Florida/churn-butter-not-customers-5cbb23d640f):
 
- 
-
-## License
 
  
-
-Data for this project was made available through [Udacity](https://www.udacity.com/)
+## Acknowledgments
+This project was made possible through Udacity as part of [Data Scientist Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
