@@ -26,9 +26,9 @@ This project analyses a fictitious digital music provider under name Sparkify. D
 
         
 
- - Explores categorical and continuous data via different statistical methods
+ - Categorical and continuous data are explored via different statistical methods
 
-- Checks the dataset for missing values and reasons on dropping certain records.
+- Dataset has been checked for data related issues (missing data, outliers). 
 
 - Derives new features based on raw data.
 
@@ -48,8 +48,14 @@ This project analyses a fictitious digital music provider under name Sparkify. D
  
 
 - Based on above exploration transforms the dataset so that can be used in classification models.
+- New dataset is vectorized and scaled, ready for modeling.
 
+**4. Modeling**
  
+- Following models are applied in the dataset 1.Random Forest 2. Gradient Boosted Tree 3. Decision Tree 4. Support Vector Machine. 
+- Above models are compared on f1-score and accuracy metrics.
+- Best model (Random Forest) is later tuned via cross-validation technique.
+- Feature importance for Random Forest has been printed.
 
 ## Files Description
 
