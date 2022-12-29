@@ -22,7 +22,7 @@ This project analyses a fictitious digital music provider under name Sparkify. D
 
  
 
-1. Data Understanding:
+**1. Data Understanding:**
 
         
 
@@ -34,7 +34,7 @@ This project analyses a fictitious digital music provider under name Sparkify. D
 
  
 
-2. Data Exploration:
+**2. Data Exploration:**
 
  
 
@@ -42,7 +42,8 @@ This project analyses a fictitious digital music provider under name Sparkify. D
 
  
 
-3. Feature Engineering
+**3. Feature Engineering**
+
 
  
 
