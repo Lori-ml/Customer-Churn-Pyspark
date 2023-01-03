@@ -76,4 +76,4 @@ A detailed description of this project and its results can be found in this [Med
 
  
 ## Acknowledgments
-This project was made possible through Udacity as part of [Data Scientist Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+This project was made possible through Udacity.
